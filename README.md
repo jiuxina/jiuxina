@@ -1,7 +1,6 @@
 <div align="center">
-
 <!-- 游戏标题画面 Title Screen (占位符: 推荐尺寸 800x250) -->
-<img src="https://via.placeholder.com/800x250/1a1a2e/e94560?text=✨+Jiuxina's+Visual+Novel+Title+Screen+✨" width="800" height="250" alt="Title Screen" style="border-radius: 10px;"/>
+<img src="imgs\head.jpg" width="800" height="250" alt="Title Screen" style="border-radius: 10px;"/>
 
 <br/>
 <br/>
@@ -16,15 +15,18 @@
 </div>
 
 <!-- 游戏主界面：左侧立绘，右侧属性面板 -->
+
 <table align="center" style="border: none; border-collapse: collapse; width: 800px;">
   <tr>
     <!-- 左侧：人物立绘 -->
     <td width="300" align="center" valign="bottom" style="border: none;">
-      <img src="https://via.placeholder.com/300x400/FFF0F5/FF69B4?text=Character+Sprite" width="300" height="400" alt="Character" />
+      <img src="imgs\fullbody.jpg" width="318" height="474" alt="Character" />
     </td>
-    
+
+
     <!-- 右侧：属性面板与系统菜单 -->
 <td width="500" valign="top" style="border:none;padding-left:20px;">
+
 <h3 style="color:#e94560;margin-top:0;">🎮 角色属性面板 (STATUS)</h3>
 <p><b>【NAME】</b> 星海汐 </p>
 <p><b>【CLASS】</b> AI Coding 工程师 </p>
@@ -42,6 +44,7 @@
 </table>
 
 <!-- 文本对话框 Dialogue Box -->
+
 <div align="center">
   <table width="800" style="background-color: #1a1a2e; border: 2px solid #e94560; border-radius: 10px;">
     <tr>
