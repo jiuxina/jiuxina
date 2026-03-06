@@ -23,8 +23,6 @@
       <img src="imgs\fullbody.jpg" width="318" height="474" alt="Character" />
     </td>
 
-
-    <!-- 右侧：属性面板与系统菜单 -->
 <td width="500" valign="top" style="border:none;padding-left:20px;">
 
 <h3 style="color:#e94560;margin-top:0;">🎮 角色属性面板 (STATUS)</h3>
@@ -38,7 +36,7 @@
 <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java" />&nbsp;
 <img src="https://img.shields.io/badge/-Galgame-FF69B4?style=flat-square&logo=visual-studio-code&logoColor=white" alt="Galgame" />
 <h3 style="color:#e94560;margin-top:20px;">📈 攻略进度 (STATS)</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=jiuxina&show_icons=true&theme=transparent&hide_border=true&title_color=e94560&text_color=a9a9b3&icon_color=e94560" alt="stats" width="100%"/>
+无法攻略！
 </td>
   </tr>
 </table>
@@ -49,7 +47,7 @@
   <table width="800" style="background-color: #1a1a2e; border: 2px solid #e94560; border-radius: 10px;">
     <tr>
       <td style="padding: 15px; color: #ffffff;">
-        <h3 style="color: #e94560; margin-top: 0;">【 Jiuxina 】</h3>
+        <h3 style="color: #e94560; margin-top: 0;">【 星海汐 】</h3>
         <p>“初次见面！欢迎来到我的主页空间。”</p>
         <p>“我的代码里藏着不少 Bug，但如果你愿意和我一起探索这个开源世界的话……我也不是不能带你一起升级哦。”</p>
         <p align="right" style="color: #e94560; margin-bottom: 0;"><i>点击屏幕继续 ▼</i></p>
@@ -86,8 +84,7 @@
 
 <!-- 事件CG占位符 (推荐尺寸 350x200，16:9 比例) -->
 <p align="center">
-  <img src="https://via.placeholder.com/350x200/2A2A40/FFFFFF?text=Event+CG+1+(350x200)" width="350" height="200" style="border: 2px solid #555; border-radius: 5px; margin-right: 15px;" alt="CG 1"/>
-  <img src="https://via.placeholder.com/350x200/2A2A40/FFFFFF?text=Event+CG+2+(350x200)" width="350" height="200" style="border: 2px solid #555; border-radius: 5px; margin-left: 15px;" alt="CG 2"/>
+   根本没有啦~
 </p>
 
 </div>
