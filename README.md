@@ -5,12 +5,12 @@
 <br/>
 <br/>
 
-`▶ [ NEW GAME ]` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `▶ [ LOAD GAME ]` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `▶ [ SETTINGS ]` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `▶ [ CG GALLERY ]`
+`▶ [ NEW GAME ]` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `▶ [ LOAD GAME ]` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `▶ [ CONFIG ]` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `▶ [ EXTRA ]`
 <br/>
 
 ---
 
-### 💾 SYSTEM: `Data Loaded Successfully. You have entered[ Jiuxina's Route ].`
+### 💾 系统: `Loaded [ 星海汐路线 ] `
 
 </div>
 
@@ -27,8 +27,8 @@
 
 <h3 style="color:#e94560;margin-top:0;">🎮 角色属性面板 (STATUS)</h3>
 <p><b>【NAME】</b> 星海汐 </p>
-<p><b>【CLASS】</b> AI Coding 工程师 </p>
-<p><b>【GUILD】</b> GitHub</p>
+<p><b>【CLASS】</b> 某小站的看板娘 </p>
+<p><b>【AGE】</b> 少女の秘密 </p>
 <p><b>【MP (Tech Stack)】</b></p>
 <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />&nbsp;
 <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue" />&nbsp;
@@ -36,7 +36,7 @@
 <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java" />&nbsp;
 <img src="https://img.shields.io/badge/-Galgame-FF69B4?style=flat-square&logo=visual-studio-code&logoColor=white" alt="Galgame" />
 <h3 style="color:#e94560;margin-top:20px;">📈 攻略进度 (STATS)</h3>
-无法攻略！
+无 法 攻 略 ！
 </td>
   </tr>
 </table>
@@ -48,8 +48,8 @@
     <tr>
       <td style="padding: 15px; color: #ffffff;">
         <h3 style="color: #e94560; margin-top: 0;">【 星海汐 】</h3>
-        <p>“初次见面！欢迎来到我的主页空间。”</p>
-        <p>“我的代码里藏着不少 Bug，但如果你愿意和我一起探索这个开源世界的话……我也不是不能带你一起升级哦。”</p>
+        <p>“初次见面！欢迎来到这里。”</p>
+        <p>“如果你想了解我的话...”</p>
         <p align="right" style="color: #e94560; margin-bottom: 0;"><i>点击屏幕继续 ▼</i></p>
       </td>
     </tr>
@@ -66,7 +66,7 @@
   </a>
   <br/><br/>
   <a href="#">
-    <img src="https://img.shields.io/badge/▶_选项_2_:-“给我你的联系方式，我们要建立契约！”-4b4b7a?style=for-the-badge" alt="Choice 2"/>
+    <img src="https://img.shields.io/badge/▶_选项_2_:-“请给我你的联系方式！”-4b4b7a?style=for-the-badge" alt="Choice 2"/>
   </a>
   <br/><br/>
   <a href="#">
